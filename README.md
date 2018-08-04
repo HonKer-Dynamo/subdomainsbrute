@@ -1,7 +1,9 @@
 subDomainsBrute 1.1
 ======
 
-A fast sub domain brute tool for pentesters.
+原贴：https://github.com/lijiejie/subDomainsBrute
+
+快速pentesters子域的工具
 
 本工具用于渗透测试目标域名收集。高并发DNS暴力枚举，发现其他工具无法探测到的域名, 如Google，aizhan，fofa。
 
